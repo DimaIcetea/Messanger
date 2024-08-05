@@ -120,6 +120,7 @@
                     FocusManager.FocusedElement="{Binding 
                     ElementName=searchQuery}"
                     >
+                    
                     <TextBox
                         Background="Transparent"
                         BorderThickness="0"
